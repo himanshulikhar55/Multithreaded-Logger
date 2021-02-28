@@ -1,8 +1,3 @@
-1) Code submitted by: Himanshu Likhar
-2) ID: 2017A7PS0062G
-3) College: BITS Pilani, Goa Campus
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 The folder has 5 files:
 a) logger.h
 b) logger.c
