@@ -3,7 +3,7 @@
 3) College: BITS Pilani, Goa Campus
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-The zip file has 5 files:
+The folder has 5 files:
 a) logger.h
 b) logger.c
 c) test_logger.c
